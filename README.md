@@ -1,4 +1,4 @@
-# fromthesky
+# Fromthesky
 Fromthesky is a website that make you travel thought multiple layers of the Atmosphere while giving beautiful insites of How our Atmosphere is Charterized
 and the source code and modles can be founded here.
 <br><br>
